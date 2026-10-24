@@ -1,132 +1,78 @@
-
-package AggregationAssociationComposition.Level1;
-
-import java.util.ArrayList;
-import java.util.Scanner;
-
-/*
-Problem 2: Bank and Account Holders (Association)
-
-Description:
-Model a relationship where a Bank has Customer objects associated
-with it. A Customer can have multiple bank accounts, and each
-account is linked to a Bank.
-
+package AggregationAssociationComposition.Level1;/*
+Description: Model a relationship where a Bank has Customer objects associated with it.
+A Customer can have multiple bank accounts, and each account is linked to a Bank.
 Tasks:
-1. Define a Bank class and a Customer class.
-2. Use an association relationship to show that each customer
-   has an account in a bank.
-3. Implement openAccount() in the Bank class and viewBalance()
-   in the Customer class.
+Define a Bank class and a Customer class.
+Use an association relationship to show that each customer has an account in a bank.
+Implement methods that enable communication, such as openAccount() in the Bank class and viewBalance() in the Customer class.
+Goal: Illustrate association by setting up a relationship between customers and the bank.
 
-Goal:
-Illustrate association by setting up a relationship between
-customers and the bank.
 */
 
-// Customer class
-class Customer {
+import java.util.ArrayList;
 
-    private String customerName;
-    private ArrayList<Bank> banks;
-    private ArrayList<Double> balances;
+class MyBank{
+    protected static final String bankName="hdfc";
+    protected ArrayList<Customer> customers;
 
     // Constructor
-    public Customer(String customerName) {
-        this.customerName = customerName;
-        this.banks = new ArrayList<>();
-        this.balances = new ArrayList<>();
+    public MyBank() {
+        this.customers = new ArrayList<>();
     }
-
-    // Method to associate customer with a bank account
-    public void addAccount(Bank bank, double initialBalance) {
-        banks.add(bank);
-        balances.add(initialBalance);
-    }
-
-    // Method to view account balances
-    public void viewBalance() {
-        System.out.println("\nCustomer Name: " + customerName);
-
-        if (banks.isEmpty()) {
-            System.out.println("No bank accounts available.");
-            return;
+    public void openAccount(Customer customer){
+        // to see if customer is there or not
+        if(!customers.contains(customer)){
+            customers.add(customer);
+            // to connect customer to this bank
+            customer.setBank(this);
+            System.out.println("Added sucessfully");
         }
+        else{
+            System.out.println("Acoount is already there!!");
+        }
+    }
+}
+class Customer{
+    protected String name;
+    private double balance;
+    private MyBank bank;
 
-        for (int i = 0; i < banks.size(); i++) {
-            System.out.println("Bank: " + banks.get(i).getBankName());
-            System.out.printf("Balance: Rs. %.2f%n", balances.get(i));
+    Customer(String name,double balance){
+        this.name=name;
+        this.balance=balance;
+    }
+    // to get connected to bank
+    protected void setBank(MyBank bank){
+        this.bank=bank;
+    }
+
+    void viewBalance( ){
+        // to see if bank has customer
+        if (bank != null && bank.customers.contains(this)) {
+            System.out.println("Bank: " + bank.bankName);
+            System.out.println("Balance: " + balance);
+        } else {
+            System.out.println("No account");
         }
     }
 }
 
-// Bank class
+
 public class Bank {
-
-    private String bankName;
-    private ArrayList<Customer> customers;
-
-    // Constructor
-    public Bank(String bankName) {
-        this.bankName = bankName;
-        this.customers = new ArrayList<>();
-    }
-
-    // Method to open an account
-    public void openAccount(Customer customer, double initialBalance) {
-        customer.addAccount(this, initialBalance);
-
-        if (!customers.contains(customer)) {
-            customers.add(customer);
-        }
-
-        System.out.println("Account opened successfully at " + bankName);
-    }
-
-    // Method to display bank details
-    public void displayBankDetails() {
-        System.out.println("\nBank Name: " + bankName);
-        System.out.println("Total Customers: " + customers.size());
-    }
-
-    // Getter for bank name
-    public String getBankName() {
-        return bankName;
-    }
-
     public static void main(String[] args) {
+        Customer c1=new Customer("purvi", 10000);
+        Customer c2=new Customer("Selena", 3000);
 
-        Scanner sc = new Scanner(System.in);
+        MyBank b1=new MyBank();
+        b1.openAccount(c2);
+        b1.openAccount(c1);
+        c1.viewBalance();
+        c2.viewBalance();
 
-        // Create two banks
-        Bank bank1 = new Bank("State Bank");
-        Bank bank2 = new Bank("City Bank");
 
-        // Create a customer
-        System.out.print("Enter customer name: ");
-        String name = sc.nextLine();
-
-        Customer customer1 = new Customer(name);
-
-        // Open an account in the first bank
-        System.out.print("Enter initial balance for State Bank: ");
-        double balance1 = sc.nextDouble();
-
-        bank1.openAccount(customer1, balance1);
-
-        // Open an account in the second bank
-        System.out.print("Enter initial balance for City Bank: ");
-        double balance2 = sc.nextDouble();
-
-        bank2.openAccount(customer1, balance2);
-
-        // Display customer account details
-        customer1.viewBalance();
-
-        // Display bank details
-        bank1.displayBankDetails();
-        bank2.displayBankDetails();
-
-        sc.close();
+        MyBank b2=new MyBank();
+        b2.openAccount(c2);
+        b2.openAccount(c2);
+        c2.viewBalance();
     }
 }
