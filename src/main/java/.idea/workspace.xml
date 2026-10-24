@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21f69bc6-7c70-48d0-9dd8-2b7f02a154ce" name="Changes" comment="[Purvi] :Added Strings" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Purviagarwal421"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Purviagarwal421/BridgeLabz_Java.git",
+    "accountId": "0eb63cc2-a3f7-48f7-a1fe-0d4f7a7086e5"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000794343800528" />
+      <entry key="MS500" value="1.2155166240986013" />
+      <entry key="S2" value="2.6136460981084912" />
+      <entry key="S5" value="4.182498214801823" />
+      <entry key="S10" value="5.271757795003342" />
+      <entry key="S30" value="6.328862370134789" />
+      <entry key="S60" value="6.655638657524238" />
+      <entry key="M2" value="6.943822868273934" />
+      <entry key="M5" value="7.75983932976521" />
+      <entry key="M10" value="8.543120528292002" />
+      <entry key="M15" value="8.931622919212982" />
+      <entry key="M30" value="9.410074912180683" />
+      <entry key="H1" value="9.689569643830401" />
+      <entry key="H2" value="9.84070764225664" />
+      <entry key="H4" value="9.919306994973192" />
+      <entry key="D1" value="9.986403375826516" />
+      <entry key="W1" value="9.998053974090862" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9660146584357086" />
+      <entry key="MS500" value="1.2077676681961818" />
+      <entry key="S2" value="2.6098611887613767" />
+      <entry key="S5" value="4.179921214595779" />
+      <entry key="S10" value="5.270066794585838" />
+      <entry key="S30" value="6.328163930796857" />
+      <entry key="S60" value="6.655261729095814" />
+      <entry key="M2" value="6.943540214618102" />
+      <entry key="M5" value="7.7594948854099375" />
+      <entry key="M10" value="8.5428229462905" />
+      <entry key="M15" value="8.931381916817818" />
+      <entry key="M30" value="9.40992783803935" />
+      <entry key="H1" value="9.689488278125744" />
+      <entry key="H2" value="9.840664833931513" />
+      <entry key="H4" value="9.919285037008756" />
+      <entry key="D1" value="9.986399637276357" />
+      <entry key="W1" value="9.998053438054088" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3L7Z4jz7v8EeCwBrTY6z6sLmgPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/CoreProgramming",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/purvi/BridgeLabz_Java/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f69bc6-7c70-48d0-9dd8-2b7f02a154ce" name="Changes" comment="" />
+      <created>1792806877601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792806877601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Purvi] :Added Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Purvi] :Added Strings" />
+  </component>
+</project>
