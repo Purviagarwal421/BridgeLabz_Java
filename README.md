@@ -1,84 +1,156 @@
 # Bridgelabz_Java
 
-Java assignments and practice problems completed as part of the BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
+Java assignments and practice problems completed as part of the  
+BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Repository Structure
-- `main`       : this README with daily task updates
-- `develop`    : empty Bridgelabz_Java project skeleton
-- `feature/*`  : topic-wise branches containing the solutions
+- `main` : this README with daily task updates
+- `develop` : empty Bridgelabz_Java project skeleton
+- `feature/*` : week-wise topic branches containing the solutions
 
 ## Daily Task Update
 
-### Day 01 — 15 Oct 2026
+### Day 08 — 23 Oct 2026
 
 **What I have done**
-- Learned Git, GitHub, and basic programming concepts
-- Practiced basic programming questions
+- Learned Object-Oriented Design Principles.
+- Studied Class Diagrams and Object Diagrams.
+- Learned Sequence Diagrams and their role in representing object interactions.
+- Practiced the `this` and `static` keywords in Java.
+- Learned the `final` keyword and its usage.
+- Studied the `instanceof` operator.
+- Learned the basics and usage of the Eclipse IDE.
 
 **What I will do**
-- Complete Level 1 and Level 2 programming problems
-- Practice Java fundamentals
+- Practice Java OOP concepts and related lab exercises.
+- Implement programs using `this`, `static`, `final`, and `instanceof`.
+- Practice designing UML diagrams for classes and objects.
 
 **Issues faced**
 - None
 
-### Day 02 — 16 Oct 2026
+---
+
+### Day 07 — 22 Oct 2026
 
 **What I have done**
-- Completed Level 1 and Level 2 programs based on:
-  - Java Comments
-  - Java Basic Data Types
-  - Java Variables
-  - Arithmetic Operators
-  - Operator Precedence
-  - Type Conversion
-  - Taking User Input in Java Programs
+- Learned the fundamentals of Object-Oriented Programming (OOP).
+- Practiced creating classes and objects in Java.
+- Learned constructors and their role in initializing objects.
+- Studied copy constructors and implemented programs using them.
+
+**Topics covered**
+- Classes and Objects
+- Constructors
+- Copy Constructors
 
 **What I will do**
-- Practice conditional statements and loops
-- Solve the remaining programming problems
+- Continue learning advanced OOP concepts.
+- Practice Java OOP lab exercises.
+- Implement programs using inheritance, polymorphism, abstraction, and encapsulation.
 
 **Issues faced**
 - None
+
+---
+
+### Day 06 — 21 Oct 2026
+
+**What I have done**
+- Practiced Java Strings Level 1, Level 2, and Level 3 lab exercises.
+- Learned string manipulation, character operations, substring handling, and exception handling.
+- Practiced Java Methods and modular programming through number guessing, prime checking, Fibonacci, palindrome, factorial, GCD, and LCM programs.
+- Implemented temperature conversion and basic calculator programs using user-defined methods.
+
+**What I will do**
+- Continue practicing Java Strings, Methods, and problem-solving exercises.
+
+**Issues faced**
+- None
+
+---
+
+### Day 05 — 19 Oct 2026
+
+**What I have done**
+- Learned Java Methods, including user-defined methods, method reusability, recursion, and static methods.
+- Practiced Java standard library methods and the `java.lang.Math` class.
+- Practiced Java Arrays and Multidimensional Arrays, including array creation, accessing, modification, loops, and the `length` property.
+- Learned 2D arrays, matrix operations, `System.err`, and `System.exit()`.
+
+**What I will do**
+- Complete Level 1, Level 2, and Level 3 Java Methods and Array Lab Practices.
+
+**Issues faced**
+- None
+
+---
+
+### Day 04 — 18 Oct 2026
+
+**What I have done**
+- Completed Level 1, Level 2, and Level 3 Java Control Flow programs.
+- Practiced loops, conditional statements, logical operators, and switch-case.
+- Staged the completed programs using Git.
+
+**What I will do**
+- Test all programs and commit the changes.
+- Push the code to GitHub.
+- Add code blocks to the Google Doc for submission.
+
+**Issues faced**
+- Configuring command-line arguments for `DayOfWeek`.
+
+---
 
 ### Day 03 — 17 Oct 2026
 
 **What I have done**
-- Practiced conditional statements: `if`, `if-else`, `else-if`, and `switch`
-- Practiced `for`, `while`, and `do-while` loops
-- Practiced `break` and `continue` statements
+- Practiced Java Programming Elements.
+- Worked on Level 1 and Level 2 programs.
+
+**Topics covered**
+- Java Comments
+- Java Basic Data Types
+- Java Variables
+- Arithmetic Operators
+- Operator Precedence
+- Type Conversion
+- Taking User Input in Java Programs
 
 **What I will do**
-- Complete array-based programming problems
-- Practice one-dimensional and two-dimensional arrays
+- Complete the remaining Level 1 and Level 2 programs.
+- Test the solutions and push the completed code to GitHub.
 
 **Issues faced**
 - None
 
-### Day 04 — 19 Oct 2026
+---
+
+### Day 02 — 16 Oct 2026
 
 **What I have done**
-- Practiced one-dimensional and two-dimensional arrays
-- Learned array traversal and manipulation
-- Solved array-based programming problems
+- Learned Java fundamentals.
+- Practiced basic Java programming concepts.
 
 **What I will do**
-- Practice method declaration and method calling
-- Learn method parameters, return types, overloading, and recursion
+- Complete Java Programming Elements Level 1 and Level 2 programs.
+- Practice the assigned problems.
 
 **Issues faced**
 - None
 
-### Day 05 — 20 Oct 2026
+---
+
+### Day 01 — 15 Oct 2026
 
 **What I have done**
-- Learned method declaration, calling, and parameters
-- Practiced return types and method overloading
-- Studied recursion and practiced method-based programming problems
+- Learned Git basics.
+- Practiced repository setup and Git commands.
 
 **What I will do**
-- Continue practicing Java programming problems
-- Strengthen my understanding of methods and recursion
+- Learn Java fundamentals.
+- Practice Java programming problems.
 
 **Issues faced**
 - None
