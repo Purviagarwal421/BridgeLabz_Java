@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2cf47fe-9778-437f-a086-b33cea33b3ef" name="Changes" comment="[Purvi]: Added OOPS Programming" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Purviagarwal421&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Purviagarwal421/BridgeLabz_Java.git&quot;,
+    &quot;accountId&quot;: &quot;0eb63cc2-a3f7-48f7-a1fe-0d4f7a7086e5&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000044740102738" />
+      <entry key="MS500" value="1.0851411271650306" />
+      <entry key="S2" value="1.540286574327326" />
+      <entry key="S5" value="1.8335339056509163" />
+      <entry key="S10" value="2.4556020414346857" />
+      <entry key="S30" value="5.295459423626318" />
+      <entry key="S60" value="7.6792515349648705" />
+      <entry key="M2" value="10.31726679383117" />
+      <entry key="M5" value="14.431461100141739" />
+      <entry key="M10" value="19.466864710441065" />
+      <entry key="M15" value="25.271778605074008" />
+      <entry key="M30" value="42.69639744803697" />
+      <entry key="H1" value="64.83573052681714" />
+      <entry key="H2" value="83.83634916198905" />
+      <entry key="H4" value="104.91639818543432" />
+      <entry key="D1" value="289.98765688936516" />
+      <entry key="W1" value="416.74588029967293" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.298614790850955E-134" />
+      <entry key="S10" value="1.516118330095392E-67" />
+      <entry key="S30" value="5.332758956862212E-23" />
+      <entry key="S60" value="7.492177557555046E-12" />
+      <entry key="M2" value="4.339234985383098E-6" />
+      <entry key="M5" value="0.034503710108537054" />
+      <entry key="M10" value="0.9293351770450187" />
+      <entry key="M15" value="3.079738669385146" />
+      <entry key="M30" value="11.378313353708354" />
+      <entry key="H1" value="23.1156468440068" />
+      <entry key="H2" value="33.685769157706964" />
+      <entry key="H4" value="47.3905411859014" />
+      <entry key="D1" value="182.7937674171713" />
+      <entry key="W1" value="275.3999315513674" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9726592990805132" />
+      <entry key="MS500" value="1.07914047976605" />
+      <entry key="S2" value="1.5381527637274985" />
+      <entry key="S5" value="1.8325175089426389" />
+      <entry key="S10" value="2.4549144872416253" />
+      <entry key="S30" value="5.294243471485177" />
+      <entry key="S60" value="7.674672026538051" />
+      <entry key="M2" value="10.309441349799686" />
+      <entry key="M5" value="14.458906297574114" />
+      <entry key="M10" value="20.388130515016996" />
+      <entry key="M15" value="28.339796141808172" />
+      <entry key="M30" value="54.05587077947359" />
+      <entry key="H1" value="87.93228607538822" />
+      <entry key="H2" value="117.50813575244234" />
+      <entry key="H4" value="152.29745430844665" />
+      <entry key="D1" value="472.77629956916803" />
+      <entry key="W1" value="692.1447347988457" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3L2VBlXGijwMP9FLsRNPLB9SVHE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaCircle.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.BookDetails.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.EmployeeDetails.executor": "Run",
+    "Application.Item.executor": "Run",
+    "Application.MobilePhone.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Student.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/object-oriented-programming",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/purvi/BridgeLabz_Java/Bridgelabz_Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Person">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectedOrientedFundamentals.Level2.BankAccount" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectedOrientedFundamentals.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructors.Level1.Circle" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Constructors.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectedOrientedFundamentals.Level1.MobilePhone" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectedOrientedFundamentals.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructors.Level1.Person" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Constructors.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectedOrientedFundamentals.Level2.Student" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectedOrientedFundamentals.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.BankAccount" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.MobilePhone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2cf47fe-9778-437f-a086-b33cea33b3ef" name="Changes" comment="" />
+      <created>1792652016936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792652016936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Purvi]: Added OOPS Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Purvi]: Added OOPS Programming" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
