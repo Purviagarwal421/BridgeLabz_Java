@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f7c32d8-e401-4c78-a3aa-bf28c2b9c898" name="Changes" comment="[Purvi] : String level 1 added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Purviagarwal421&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Purviagarwal421/BridgeLabz_Java.git&quot;,
+    &quot;accountId&quot;: &quot;0eb63cc2-a3f7-48f7-a1fe-0d4f7a7086e5&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0002546051477876" />
+      <entry key="MS500" value="1.2490406062247803" />
+      <entry key="S2" value="2.966803177378617" />
+      <entry key="S5" value="5.352779081733821" />
+      <entry key="S10" value="7.5228288087492885" />
+      <entry key="S30" value="10.122359329520688" />
+      <entry key="S60" value="11.175260257773058" />
+      <entry key="M2" value="12.523877603963745" />
+      <entry key="M5" value="18.975212106373252" />
+      <entry key="M10" value="32.161444477698836" />
+      <entry key="M15" value="43.62145783256153" />
+      <entry key="M30" value="67.93843725306198" />
+      <entry key="H1" value="100.38296024179357" />
+      <entry key="H2" value="155.85967883882685" />
+      <entry key="H4" value="231.00960398249723" />
+      <entry key="D1" value="364.3587510151334" />
+      <entry key="W1" value="398.8112409344429" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.729988177685283E-94" />
+      <entry key="S5" value="7.834697806627738E-38" />
+      <entry key="S10" value="3.929418152528078E-19" />
+      <entry key="S30" value="1.1613436913773873E-6" />
+      <entry key="S60" value="0.0015593909442323942" />
+      <entry key="M2" value="0.06620914084158214" />
+      <entry key="M5" value="0.9951713295466674" />
+      <entry key="M10" value="3.3252847511173598" />
+      <entry key="M15" value="5.513577728134471" />
+      <entry key="M30" value="10.846398870928594" />
+      <entry key="H1" value="22.447947660375256" />
+      <entry key="H2" value="53.29303523779222" />
+      <entry key="H4" value="101.37292060419112" />
+      <entry key="D1" value="191.15800246605772" />
+      <entry key="W1" value="214.7510289650488" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9595117622719052" />
+      <entry key="MS500" value="1.2386105977964972" />
+      <entry key="S2" value="2.8845020308130604" />
+      <entry key="S5" value="5.221496975840134" />
+      <entry key="S10" value="7.405400044506557" />
+      <entry key="S30" value="10.061292201607838" />
+      <entry key="S60" value="11.141995340667554" />
+      <entry key="M2" value="12.568226438018176" />
+      <entry key="M5" value="19.943441464181547" />
+      <entry key="M10" value="35.44449699923072" />
+      <entry key="M15" value="49.08459184011694" />
+      <entry key="M30" value="78.73095508050778" />
+      <entry key="H1" value="122.78474846575753" />
+      <entry key="H2" value="209.11531978403707" />
+      <entry key="H4" value="332.35466374648286" />
+      <entry key="D1" value="555.5094315489351" />
+      <entry key="W1" value="613.5611250441755" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Kzt7Fv9je6WtPr0GOatX7AIlJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CharactersInString.executor": "Run",
+    "Application.ConvertLowerCase.executor": "Run",
+    "Application.ConvertUpperCase.executor": "Run",
+    "Application.IsEqual.executor": "Run",
+    "Application.MatrixToArray.executor": "Run",
+    "Application.ShowArrayIndexOutOfBoundsException.executor": "Run",
+    "Application.ShowIllegalArgumentException.executor": "Run",
+    "Application.ShowNullPointerException.executor": "Run",
+    "Application.ShowNumberFormatException.executor": "Run",
+    "Application.ShowStringIndexOutOfBoundsException.executor": "Run",
+    "Application.SplitText.executor": "Run",
+    "Application.StringLength.executor": "Run",
+    "Application.Substring.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/object-oriented-programming",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/purvi/BridgeLabz_Java/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SplitText">
+    <configuration name="ConvertLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CorePrograms.String.Level1.ConvertLowerCase" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CorePrograms.String.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CorePrograms.String.Level1.ConvertUpperCase" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CorePrograms.String.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowArrayIndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CorePrograms.String.Level1.ShowArrayIndexOutOfBoundsException" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CorePrograms.String.Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CorePrograms.String.Level2.SplitText" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CorePrograms.String.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CorePrograms.String.Level2.StringLength" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CorePrograms.String.Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SplitText" />
+        <item itemvalue="Application.StringLength" />
+        <item itemvalue="Application.ConvertLowerCase" />
+        <item itemvalue="Application.ConvertUpperCase" />
+        <item itemvalue="Application.ShowArrayIndexOutOfBoundsException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7c32d8-e401-4c78-a3aa-bf28c2b9c898" name="Changes" comment="" />
+      <created>1792572054732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792572054732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Purvi] : String level 1 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Purvi] : String level 1 added" />
+  </component>
+</project>
