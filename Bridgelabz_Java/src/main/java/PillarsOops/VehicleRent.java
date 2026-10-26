@@ -60,8 +60,7 @@ abstract class Vehicle{
 class Car extends Vehicle implements Insurable {
     private String policyNumber;
 
-    public Car(String vehicleNumber, double rentalRate,
-               String policyNumber) {
+    public Car(String vehicleNumber, double rentalRate, String policyNumber) {
         super(vehicleNumber, "Car", rentalRate);
         this.policyNumber = policyNumber;
     }

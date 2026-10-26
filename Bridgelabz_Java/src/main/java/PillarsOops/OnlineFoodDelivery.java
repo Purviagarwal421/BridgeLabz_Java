@@ -14,7 +14,6 @@ import java.util.ArrayList;
 
 interface Discountable {
     double applyDiscount();
-
     String getDiscountDetails();
 }
 
