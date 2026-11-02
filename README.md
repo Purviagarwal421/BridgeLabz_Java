@@ -10,6 +10,124 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 14 – 31 Oct 2026
+
+**What I did:**
+- Practiced and implemented LeetCode problems using Java.
+- Applied Data Structures and Algorithms concepts to solve coding challenges.
+- Worked on improving logical thinking and understanding different approaches to problem-solving.
+- Revised previously learned concepts to strengthen coding fundamentals.
+
+**What I will do:**
+- Continue solving LeetCode problems of increasing difficulty.
+- Focus on optimizing solutions using time and space complexity analysis.
+- Practice more DSA problems to improve coding efficiency and confidence.
+
+**Issues Faced:** None.
+
+---
+
+### Day 13 – 30 Oct 2026
+
+**What I did:**
+- Studied Time Complexity and Space Complexity to understand algorithm efficiency.
+- Learned about Big O notation and analyzed the performance of different algorithms.
+- Revised Hashing concepts, including hash functions, buckets, and collision handling.
+- Watched YouTube tutorials to gain better clarity on the internal working of HashMaps.
+
+**What I will do:**
+- Practice analyzing time and space complexities of Java programs.
+- Solve LeetCode problems to improve problem-solving skills.
+- Continue revising Data Structures and Algorithms.
+
+**Issues Faced:** None.
+
+---
+
+### Day 12 – 29 Oct 2026
+
+**What I did:**
+- Studied and implemented StringBuilder, StringBuffer, FileReader, and InputStreamReader concepts in Java.
+- Practiced string manipulation, file handling, and performance comparison programs.
+- Implemented Linear Search and Binary Search algorithms through different problem statements.
+- Completed 16 Java programs and organized them into the StringIOAndSearching package.
+
+**What I will do:**
+- Revise searching algorithms and file handling concepts.
+- Solve more problems to improve logical thinking and problem-solving skills.
+- Continue practicing Java Data Structures and Algorithms.
+
+**Issues Faced:** None.
+
+---
+
+### Day 11 – 28 Oct 2026
+
+**What I did:**
+- Studied and implemented different sorting algorithms in Java.
+- Practiced Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort, Heap Sort, and Counting Sort.
+- Understood the working principles and time complexities of different sorting techniques.
+- Organized 7 sorting programs into the Sorting package and pushed them to the Data Structures branch on GitHub.
+
+**What I will do:**
+- Solve more problems based on sorting algorithms.
+- Revise sorting techniques and practice identifying suitable algorithms for different problems.
+- Continue strengthening problem-solving and logical thinking skills through Java programming.
+
+**Issues Faced:** None.
+
+---
+
+### Day 10 – 27 Oct 2026
+
+**What I did:**
+- Understood the fundamentals of Stacks and Queues in Java.
+- Implemented basic problems to practice stack and queue operations.
+- Gave a review on OOP and String concepts.
+- Strengthened my understanding of data structures through practical implementation.
+
+**What I will do:**
+- Solve more problems based on Stacks and Queues.
+- Practice different problem-solving approaches to improve logical thinking and coding skills.
+
+**Issues Faced:** None.
+
+---
+
+### Day 09 – 26 Oct 2026
+
+**What I did:**
+- Studied the fundamentals of Linked Lists and revised related OOP concepts.
+- Watched YouTube tutorials to understand Singly Linked Lists.
+- Learned about node structure, references, and basic operations in Singly Linked Lists.
+
+**What I will do:**
+- Study Doubly Linked Lists and Circular Linked Lists.
+- Understand their structure and basic operations.
+- Practice implementing Linked List concepts in Java.
+
+**Issues Faced:** None.
+
+---
+
+### Day 08 – 24 Oct 2026
+
+**What I did:**
+
+- Completed assignments covering encapsulation, polymorphism, abstraction, and inheritance.
+- Practiced method overriding, abstract classes, interfaces, and inheritance hierarchies.
+- Applied OOP concepts to banking, employee management, library, hospital, and vehicle systems.
+- Organized 19 programs into the `EncPolyAbs` and `Inheritance` packages.
+- Compiled the programs and pushed them to the OOP branch on GitHub.
+
+**What I will do:**
+
+- Revise inheritance, abstraction, and polymorphism.
+- Continue practicing OOP concepts through upcoming assignments.
+
+**Issues Faced:** None.
+
+
 ### Day 08 — 23 Oct 2026
 
 **What I have done**
